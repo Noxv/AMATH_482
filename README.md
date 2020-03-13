@@ -9,3 +9,9 @@ Homework 2: Gábor Transform
 
 Homework 3: Video Tracking
   -Used PCA to track objecets in moving in space from three cameras.
+
+Homework 4: Music Classification
+  -Used PCA and LDA to classify three different artists from different genres and within the same genre. Also, built a clarrisfier that classified generes themselves.
+  
+Homework 5: Neural Networks
+  -Built a fully connected and convolutional neural network and compared the results. Used the Fashion-MNST dataset and TensorFlow to build and train the networks.
