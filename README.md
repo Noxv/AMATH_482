@@ -1,5 +1,5 @@
 # AMATH_482
-Course work for AMATH 482: Computational Methods in Data Analysis at the University of Washington.
+Course work for AMATH 482: Computational Methods in Data Analysis at the University of Washington by Max Walter.
 
 Homework 1: Ultrasound Problem 
   -Used Fourier Transform and signal proccessing to identify an object within ultrasound data.
