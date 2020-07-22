@@ -8,7 +8,7 @@ Homework 2: Gábor Transform
   -Used different transoforms to evaluate music to recreate the key of the music being played.
 
 Homework 3: Video Tracking
-  -Used PCA to track objecets in moving in space from three cameras.
+  -Used PCA to track objects in moving in space from three cameras.
 
 Homework 4: Music Classification
   -Used PCA and LDA to classify three different artists from different genres and within the same genre. Also, built a clarrisfier that classified generes themselves.
